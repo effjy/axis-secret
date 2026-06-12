@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Calculator
+GenericName=Antigravity Calculator
+Comment=A professional and beautiful GTK3 calculator
+Exec=calculator
+Icon=calculator
+Terminal=false
+Categories=Utility;Calculator;GTK;
+StartupNotify=true
