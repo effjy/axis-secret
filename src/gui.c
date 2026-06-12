@@ -1,4 +1,4 @@
-]#include "gui.h"
+#include "gui.h"
 #include "calc.h"
 #include "history.h"
 #include <string.h>
