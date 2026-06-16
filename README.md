@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/effjy/axis-secret/"><img src="titles/calculator-vault-title.svg" height="44" alt="Calculator Vault"></a>
+<a href="https://github.com/effjy/axis-secret/"><img src="titles/calculator-vault-title.svg" height="52" alt="Calculator Vault"></a>
 
 ### A beautiful GTK3 calculator with a secret inside
 
