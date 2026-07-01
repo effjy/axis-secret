@@ -30,7 +30,7 @@
 
 <br>
 
-<img src="axis.png" alt="The Axis Encrypted Disk Manager main window" width="700">
+<img src="screenshot1.png" alt="The Axis Encrypted Disk Manager main window" width="700">
 
 *The Axis Encrypted Disk Manager main window, revealed after entering the passcode.*
 
